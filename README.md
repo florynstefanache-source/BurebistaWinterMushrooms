@@ -14,6 +14,7 @@ Añade racimos de setas de invierno **Flammulina velutipes**, con modelos propio
 
 - Busca racimos cerca de palos naturales del bosque. La aparición no está garantizada en cada punto.
 - El mod también busca puntos junto a palos que aún no hayas recogido al visitar regiones de partidas existentes. Espera unos diez segundos después de cargar la región; puede añadir hasta 12 racimos en esa pasada.
+- **Se recomienda cocinar las setas en un recipiente de cocina compatible, como una olla o sartén, sobre el fuego.**
 - Recoge las setas y cocínalas con el sistema normal del juego. El modelo se adapta a las ranuras de cocina y recupera su forma al retirarlo.
 - El nombre científico se mantiene igual en ambos idiomas; la versión cocinada y las descripciones sí se traducen.
 
@@ -59,6 +60,7 @@ Adds **Flammulina velutipes winter mushroom clusters**, with custom models and r
 
 - Look for clusters near naturally spawned woodland sticks. A cluster is not guaranteed at every point.
 - Existing-save regions are supported: after loading a region, the mod waits about ten seconds and checks untouched natural sticks, adding up to 12 clusters in that pass.
+- **For best results, cook the mushrooms in a compatible cooking vessel, such as a pot or skillet, over a fire.**
 - Collect mushrooms and cook them using the normal cooking system. Their model adjusts to cooking slots and returns to its normal shape when removed.
 - The scientific name is identical in both languages; the cooked item name and descriptions are translated.
 
